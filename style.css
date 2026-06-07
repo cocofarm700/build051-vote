@@ -82,8 +82,16 @@ main { max-width: 1100px; margin: 0 auto; padding: 0 1rem 3rem; }
 
 .game-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 1.5rem;
+  /* 모바일: 항상 최소 2열 */
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+}
+/* 화면이 넓어지면 카드 폭에 맞춰 2,3,4열로 자동 확장 (항상 2열 이상 보장) */
+@media (min-width: 560px) {
+  .game-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1.5rem;
+  }
 }
 
 .game-card {
