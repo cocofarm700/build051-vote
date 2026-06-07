@@ -1,5 +1,4 @@
 // Google Form 연동 설정.
-// 폼: "빌드051 똥똥배(DDB) 어워드"
 const CONFIG = {
   // 폼 주소 (?usp=pp_url 까지). 폼 ID만 바뀌지 않으면 그대로 둡니다.
   formBaseUrl:
