@@ -222,7 +222,7 @@ async function init() {
   setupTabs();
   setupSubmitBar();
   try {
-    const res = await fetch("games.json");
+    const res = await fetch("games.json", { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const games = await res.json();
     if (!Array.isArray(games)) throw new Error("games.json 형식 오류");

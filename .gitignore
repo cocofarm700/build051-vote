@@ -13,3 +13,6 @@ docs/
 
 # QR 이미지 (로컬 보관용, 공개 저장소에서 제외)
 *-qr.png
+
+# Claude Code 로컬 설정 (공개 저장소에서 제외)
+.claude/
