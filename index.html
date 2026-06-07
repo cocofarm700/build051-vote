@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BUILD 051 — 게임 투표</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/gh/quiple/galmuri/dist/galmuri.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title">BUILD 051</h1>
+    <p class="site-subtitle">최고의 게임을 투표해주세요!</p>
+  </header>
+
+  <nav class="tabs" id="tabs" role="tablist" aria-label="부문 선택">
+    <button class="tab" role="tab" data-division="corporate">기업 부문</button>
+    <button class="tab" role="tab" data-division="student">학생 부문</button>
+    <button class="tab" role="tab" data-division="innovation">혁신 부문</button>
+  </nav>
+
+  <main>
+    <p class="tab-hint" id="tab-hint"></p>
+    <div id="status" class="status" hidden></div>
+    <section id="game-grid" class="game-grid" aria-label="게임 목록"></section>
+  </main>
+
+  <footer class="submit-bar" id="submit-bar">
+    <div class="submit-bar-inner">
+      <div class="picks" id="picks" aria-label="부문별 선택 현황">
+        <button class="pick" data-division="corporate">
+          <span class="pick-label">기업</span>
+          <span class="pick-value" data-pick="corporate">미선택</span>
+        </button>
+        <button class="pick" data-division="student">
+          <span class="pick-label">학생</span>
+          <span class="pick-value" data-pick="student">미선택</span>
+        </button>
+        <button class="pick" data-division="innovation">
+          <span class="pick-label">혁신</span>
+          <span class="pick-value" data-pick="innovation">미선택</span>
+        </button>
+      </div>
+      <div class="submit-action">
+        <p class="submit-msg" id="submit-msg"></p>
+        <button class="submit-btn" id="submit-btn" type="button">투표 제출하기 (0/3)</button>
+      </div>
+    </div>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

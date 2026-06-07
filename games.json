@@ -1,0 +1,253 @@
+[
+  {
+    "name": "네온 레이서",
+    "division": "corporate",
+    "description": "사이버펑크 도심을 질주하는 레이싱",
+    "image": "images/sample1.png"
+  },
+  {
+    "name": "픽셀 던전",
+    "division": "corporate",
+    "description": "도트 감성 로그라이크"
+  },
+  {
+    "name": "스페이스 러너",
+    "division": "corporate",
+    "description": "끝없는 우주 자동 달리기"
+  },
+  {
+    "name": "그림자 검객",
+    "division": "corporate",
+    "description": "스타일리시 액션 검술 게임"
+  },
+  {
+    "name": "별빛 농장",
+    "division": "corporate",
+    "description": "힐링 농장 경영 시뮬레이션"
+  },
+  {
+    "name": "강철 군단",
+    "division": "corporate",
+    "description": "실시간 전략 메카 전투"
+  },
+  {
+    "name": "미궁의 탑",
+    "division": "corporate",
+    "description": "층마다 바뀌는 퍼즐 던전"
+  },
+  {
+    "name": "드래곤 코어",
+    "division": "corporate",
+    "description": "용을 키우는 수집형 RPG"
+  },
+  {
+    "name": "폭주 기관차",
+    "division": "corporate",
+    "description": "물리 기반 기차 운행 퍼즐"
+  },
+  {
+    "name": "심해 탐사대",
+    "division": "corporate",
+    "description": "잠수정으로 떠나는 어드벤처"
+  },
+  {
+    "name": "아케이드 펀치",
+    "division": "corporate",
+    "description": "복고풍 대전 격투"
+  },
+  {
+    "name": "마법 상점 이야기",
+    "division": "corporate",
+    "description": "마법 아이템 경영 시뮬"
+  },
+  {
+    "name": "좀비 디펜스",
+    "division": "corporate",
+    "description": "물량 좀비 타워 디펜스"
+  },
+  {
+    "name": "하늘섬 비행단",
+    "division": "corporate",
+    "description": "비행선 슈팅 액션"
+  },
+  {
+    "name": "리듬 스파크",
+    "division": "corporate",
+    "description": "네온 리듬 액션"
+  },
+  {
+    "name": "고양이 카페 대작전",
+    "division": "corporate",
+    "description": "귀여운 고양이 카페 경영"
+  },
+  {
+    "name": "크리스탈 마인",
+    "division": "corporate",
+    "description": "광물 채굴 자동화 게임"
+  },
+  {
+    "name": "로봇 친구 Q",
+    "division": "corporate",
+    "description": "조립형 로봇 퍼즐"
+  },
+  {
+    "name": "황혼의 성",
+    "division": "corporate",
+    "description": "고딕 호러 탐험"
+  },
+  {
+    "name": "번개 배달부",
+    "division": "corporate",
+    "description": "시간 제한 배달 액션"
+  },
+  {
+    "name": "정글 서바이벌",
+    "division": "corporate",
+    "description": "정글 생존 크래프팅"
+  },
+  {
+    "name": "우주 정거장 7",
+    "division": "corporate",
+    "description": "기지 건설 시뮬레이션"
+  },
+  {
+    "name": "픽셀 셰프",
+    "division": "corporate",
+    "description": "주문 폭주 요리 게임"
+  },
+  {
+    "name": "그래비티 볼",
+    "division": "corporate",
+    "description": "중력 조작 물리 퍼즐"
+  },
+  {
+    "name": "사무라이 런",
+    "division": "corporate",
+    "description": "한손 조작 횡스크롤 액션"
+  },
+  {
+    "name": "기억의 조각",
+    "division": "student",
+    "description": "감성 내러티브 어드벤처"
+  },
+  {
+    "name": "색을 잃은 세계",
+    "division": "student",
+    "description": "흑백에서 색을 되찾는 퍼즐"
+  },
+  {
+    "name": "종이비행기",
+    "division": "student",
+    "description": "바람을 타는 캐주얼 게임"
+  },
+  {
+    "name": "작은 등대지기",
+    "division": "student",
+    "description": "외딴 섬 등대 운영 이야기"
+  },
+  {
+    "name": "꿈의 미로",
+    "division": "student",
+    "description": "초현실 분위기 미로 탐험"
+  },
+  {
+    "name": "리버스 그래비티",
+    "division": "student",
+    "description": "중력 반전 플랫포머"
+  },
+  {
+    "name": "소리로 보는 밤",
+    "division": "student",
+    "description": "소리 단서로 푸는 어둠 속 퍼즐"
+  },
+  {
+    "name": "이끼 정원",
+    "division": "student",
+    "description": "느긋한 정원 가꾸기"
+  },
+  {
+    "name": "타임 루프 카페",
+    "division": "student",
+    "description": "반복되는 하루의 미스터리"
+  },
+  {
+    "name": "별을 줍는 아이",
+    "division": "student",
+    "description": "수집형 힐링 플랫포머"
+  },
+  {
+    "name": "그림자 놀이",
+    "division": "student",
+    "description": "빛과 그림자 퍼즐"
+  },
+  {
+    "name": "마지막 우산",
+    "division": "student",
+    "description": "비 오는 도시 감성 게임"
+  },
+  {
+    "name": "픽셀 정원사",
+    "division": "student",
+    "description": "도트 정원 시뮬레이션"
+  },
+  {
+    "name": "무중력 술래잡기",
+    "division": "student",
+    "description": "우주 멀티 캐주얼"
+  },
+  {
+    "name": "낡은 라디오",
+    "division": "student",
+    "description": "사운드 기반 스토리 게임"
+  },
+  {
+    "name": "종이 인형극",
+    "division": "student",
+    "description": "종이 연극 연출 게임"
+  },
+  {
+    "name": "미생물 월드",
+    "division": "student",
+    "description": "세포 성장 시뮬레이션"
+  },
+  {
+    "name": "달팽이 우편",
+    "division": "student",
+    "description": "느린 배달 퍼즐"
+  },
+  {
+    "name": "실험실 탈출",
+    "division": "student",
+    "description": "방탈출 퍼즐"
+  },
+  {
+    "name": "고래의 노래",
+    "division": "student",
+    "description": "심해 분위기 탐험"
+  },
+  {
+    "name": "색연필 모험",
+    "division": "student",
+    "description": "손그림풍 어드벤처"
+  },
+  {
+    "name": "작은 마녀의 빗자루",
+    "division": "student",
+    "description": "빗자루 비행 캐주얼"
+  },
+  {
+    "name": "도서관의 밤",
+    "division": "student",
+    "description": "책 속으로 들어가는 퍼즐"
+  },
+  {
+    "name": "로봇 청소부 R",
+    "division": "student",
+    "description": "청소 자동화 퍼즐"
+  },
+  {
+    "name": "씨앗과 바람",
+    "division": "student",
+    "description": "자연 성장 샌드박스"
+  }
+]
