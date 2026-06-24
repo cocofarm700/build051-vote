@@ -40,16 +40,25 @@ function saveSelections() {
   }
 }
 
+// 폼에 보낼 값: 폼 선택지 형식("게임명 - 팀명")과 정확히 일치시킨다.
+function formValueFor(division) {
+  const name = selections[division];
+  if (!name) return null;
+  const g = allGames.find((x) => x.name === name && x.division === division);
+  const team = g && g.team ? g.team.trim() : "";
+  return team ? name + " - " + team : name;
+}
+
 // ---- 제출 URL: 선택된 부문들을 모두 prefill ----
 function buildSubmitUrl() {
   if (!CONFIG.formBaseUrl) return "";
   let url = CONFIG.formBaseUrl;
   for (const k of DIVISION_KEYS) {
     const entryId = CONFIG.entryIds && CONFIG.entryIds[k];
-    const game = selections[k];
-    if (entryId && game) {
+    const value = formValueFor(k);
+    if (entryId && value) {
       const sep = url.includes("?") ? "&" : "?";
-      url += sep + entryId + "=" + encodeURIComponent(game);
+      url += sep + entryId + "=" + encodeURIComponent(value);
     }
   }
   return url;
