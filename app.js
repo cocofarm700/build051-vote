@@ -11,11 +11,11 @@ const DIVISIONS = {
     filter: (g) => g.division === "student",
   },
 };
-const DIVISION_KEYS = ["corporate", "student"];
+const DIVISION_KEYS = ["student", "corporate"];
 const STORAGE_KEY = "build051_selections";
 
 let allGames = [];
-let activeDivision = "corporate";
+let activeDivision = "student";
 // 부문별 선택된 게임 이름 (없으면 null)
 let selections = { corporate: null, student: null };
 
