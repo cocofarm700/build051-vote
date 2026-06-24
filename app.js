@@ -10,19 +10,14 @@ const DIVISIONS = {
     hint: "학생 부문 출품작 중 최고의 게임을 선택하세요.",
     filter: (g) => g.division === "student",
   },
-  innovation: {
-    label: "혁신 부문",
-    hint: "전체 출품작 중 가장 혁신적인 게임을 선택하세요.",
-    filter: () => true,
-  },
 };
-const DIVISION_KEYS = ["corporate", "student", "innovation"];
+const DIVISION_KEYS = ["corporate", "student"];
 const STORAGE_KEY = "build051_selections";
 
 let allGames = [];
 let activeDivision = "corporate";
 // 부문별 선택된 게임 이름 (없으면 null)
-let selections = { corporate: null, student: null, innovation: null };
+let selections = { corporate: null, student: null };
 
 // ---- 선택 상태 저장/복원 ----
 function loadSelections() {
@@ -152,11 +147,12 @@ function renderSubmitBar() {
 
   const count = selectedCount();
   const submitBtn = document.getElementById("submit-btn");
-  submitBtn.textContent = "투표 제출하기 (" + count + "/3)";
-  submitBtn.classList.toggle("ready", count === 3);
+  const total = DIVISION_KEYS.length;
+  submitBtn.textContent = "투표 제출하기 (" + count + "/" + total + ")";
+  submitBtn.classList.toggle("ready", count === total);
 
   // 제출 안내 메시지는 제출 시도 시에만 채워지므로 평소엔 비움
-  if (count === 3) document.getElementById("submit-msg").textContent = "";
+  if (count === total) document.getElementById("submit-msg").textContent = "";
 }
 
 function onSubmit() {

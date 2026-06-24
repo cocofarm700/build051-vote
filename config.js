@@ -7,6 +7,5 @@ const CONFIG = {
   entryIds: {
     corporate: "entry.349499540",   // 기업 부문 (선택지 25개)
     student: "entry.573653080",     // 학생 부문 (선택지 25개)
-    innovation: "entry.2083454847", // 혁신 부문 (선택지 50개)
   },
 };

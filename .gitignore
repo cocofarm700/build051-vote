@@ -16,3 +16,6 @@ docs/
 
 # Claude Code 로컬 설정 (공개 저장소에서 제외)
 .claude/
+
+# oh-my-claudecode 상태 (공개 저장소에서 제외)
+.omc/
