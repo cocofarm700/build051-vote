@@ -40,7 +40,7 @@ body {
   background-position: center 38%;
   border-bottom: 3px solid var(--cyan);
 }
-.site-subtitle, .event-info { text-shadow: 0 2px 6px rgba(0,0,0,.8); }
+.site-subtitle, .vote-notice { text-shadow: 0 2px 6px rgba(0,0,0,.8); }
 .site-title {
   font-family: "Press Start 2P", "Galmuri11", monospace;
   color: var(--gold);
@@ -66,7 +66,13 @@ body {
   letter-spacing: 2px;
 }
 .site-subtitle { color: var(--cyan); margin-top: 1rem; }
-.event-info { color: var(--muted); font-size: 0.8rem; margin-top: 0.5rem; }
+.vote-notice {
+  color: var(--text);
+  font-size: 0.85rem;
+  line-height: 1.6;
+  margin: 0.9rem auto 0;
+  max-width: 30rem;
+}
 
 .tabs {
   display: flex;
