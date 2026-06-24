@@ -1,253 +1,284 @@
 [
   {
-    "name": "네온 레이서",
+    "name": "Fresh Man",
+    "team": "thispring studio",
     "division": "corporate",
-    "description": "사이버펑크 도심을 질주하는 레이싱",
-    "image": "images/sample1.png"
+    "image": "images/corp-01.jpg"
   },
   {
-    "name": "픽셀 던전",
+    "name": "M.Y.O",
+    "team": "투디픽스",
     "division": "corporate",
-    "description": "도트 감성 로그라이크"
+    "image": "images/corp-02.jpg"
   },
   {
-    "name": "스페이스 러너",
+    "name": "Worn By The Forgotten",
+    "team": "OddBallGames",
     "division": "corporate",
-    "description": "끝없는 우주 자동 달리기"
+    "image": "images/corp-03.jpg"
   },
   {
-    "name": "그림자 검객",
+    "name": "룰렛서커스",
+    "team": "스튜디오 모하지",
     "division": "corporate",
-    "description": "스타일리시 액션 검술 게임"
+    "image": "images/corp-04.jpg"
   },
   {
-    "name": "별빛 농장",
+    "name": "Fish in box",
+    "team": "레그닷 (LegDot)",
     "division": "corporate",
-    "description": "힐링 농장 경영 시뮬레이션"
+    "image": "images/corp-05.jpg"
   },
   {
-    "name": "강철 군단",
+    "name": "KineticSignal",
+    "team": "TEAM.포션중독",
     "division": "corporate",
-    "description": "실시간 전략 메카 전투"
+    "image": "images/corp-06.jpg"
   },
   {
-    "name": "미궁의 탑",
+    "name": "Jean’s pet grooming (진스펫샵)",
+    "team": "어필(AFEEL, Inc.)",
     "division": "corporate",
-    "description": "층마다 바뀌는 퍼즐 던전"
+    "image": "images/corp-07.jpg"
   },
   {
-    "name": "드래곤 코어",
+    "name": "PARRUITS!",
+    "team": "Cluko",
     "division": "corporate",
-    "description": "용을 키우는 수집형 RPG"
+    "image": "images/corp-08.jpg"
   },
   {
-    "name": "폭주 기관차",
+    "name": "섀도우 제로",
+    "team": "아스테로이드제이",
     "division": "corporate",
-    "description": "물리 기반 기차 운행 퍼즐"
+    "image": "images/corp-09.jpg"
   },
   {
-    "name": "심해 탐사대",
+    "name": "안테나룸",
+    "team": "터틀 크림",
     "division": "corporate",
-    "description": "잠수정으로 떠나는 어드벤처"
+    "image": "images/corp-10.jpg"
   },
   {
-    "name": "아케이드 펀치",
+    "name": "마그네틱 걸즈! (Magnetic Girls!)",
+    "team": "팀 마그넷",
     "division": "corporate",
-    "description": "복고풍 대전 격투"
+    "image": "images/corp-11.jpg"
   },
   {
-    "name": "마법 상점 이야기",
+    "name": "팜 서바이버즈: 30 데이즈 레프트",
+    "team": "겜스터즈 주식회사",
     "division": "corporate",
-    "description": "마법 아이템 경영 시뮬"
+    "image": "images/corp-12.jpg"
   },
   {
-    "name": "좀비 디펜스",
+    "name": "Anomaly Operation",
+    "team": "forEverGames (포에버게임즈)",
     "division": "corporate",
-    "description": "물량 좀비 타워 디펜스"
+    "image": "images/corp-13.jpg"
   },
   {
-    "name": "하늘섬 비행단",
+    "name": "Reverie",
+    "team": "Reverie",
     "division": "corporate",
-    "description": "비행선 슈팅 액션"
+    "image": "images/corp-14.jpg"
   },
   {
-    "name": "리듬 스파크",
+    "name": "바코드 스트라이크",
+    "team": "매직큐브",
     "division": "corporate",
-    "description": "네온 리듬 액션"
+    "image": "images/corp-15.jpg"
   },
   {
-    "name": "고양이 카페 대작전",
+    "name": "라이트 오디세이",
+    "team": "썬게임즈",
     "division": "corporate",
-    "description": "귀여운 고양이 카페 경영"
+    "image": "images/corp-16.jpg"
   },
   {
-    "name": "크리스탈 마인",
+    "name": "Little Elementals",
+    "team": "Hwidely Studio",
     "division": "corporate",
-    "description": "광물 채굴 자동화 게임"
+    "image": "images/corp-17.jpg"
   },
   {
-    "name": "로봇 친구 Q",
+    "name": "SEMO",
+    "team": "하드 코더스",
     "division": "corporate",
-    "description": "조립형 로봇 퍼즐"
+    "image": "images/corp-18.jpg"
   },
   {
-    "name": "황혼의 성",
+    "name": "Soccer Kick!",
+    "team": "GoofyRule Studio",
     "division": "corporate",
-    "description": "고딕 호러 탐험"
+    "image": "images/corp-19.jpg"
   },
   {
-    "name": "번개 배달부",
+    "name": "PacoStep",
+    "team": "Thedumi",
     "division": "corporate",
-    "description": "시간 제한 배달 액션"
+    "image": "images/corp-20.jpg"
   },
   {
-    "name": "정글 서바이벌",
+    "name": "In a Mansion",
+    "team": "Blaze Runner",
     "division": "corporate",
-    "description": "정글 생존 크래프팅"
+    "image": "images/corp-21.jpg"
   },
   {
-    "name": "우주 정거장 7",
+    "name": "총알소녀",
+    "team": "飛上(비상)",
     "division": "corporate",
-    "description": "기지 건설 시뮬레이션"
+    "image": "images/corp-22.jpg"
   },
   {
-    "name": "픽셀 셰프",
+    "name": "Flame On, Sire!",
+    "team": "플레이 메피스토왈츠",
     "division": "corporate",
-    "description": "주문 폭주 요리 게임"
+    "image": "images/corp-23.jpg"
   },
   {
-    "name": "그래비티 볼",
+    "name": "Project Blue Sky",
+    "team": "WSSY Studio",
     "division": "corporate",
-    "description": "중력 조작 물리 퍼즐"
+    "image": "images/corp-24.jpg"
   },
   {
-    "name": "사무라이 런",
+    "name": "염매",
+    "team": "스타바이트 스튜디오",
     "division": "corporate",
-    "description": "한손 조작 횡스크롤 액션"
+    "image": "images/corp-25.jpg"
   },
   {
-    "name": "기억의 조각",
-    "division": "student",
-    "description": "감성 내러티브 어드벤처"
+    "name": "If You Are Lost",
+    "team": "스튜디오 로",
+    "division": "corporate",
+    "image": "images/corp-26.jpg"
   },
   {
-    "name": "색을 잃은 세계",
-    "division": "student",
-    "description": "흑백에서 색을 되찾는 퍼즐"
+    "name": "Break Shoot",
+    "team": "맛세이들",
+    "division": "corporate",
+    "image": "images/corp-27.jpg"
   },
   {
-    "name": "종이비행기",
+    "name": "Broller",
+    "team": "Newbies (동의대학교)",
     "division": "student",
-    "description": "바람을 타는 캐주얼 게임"
+    "image": "images/stud-01.jpg"
   },
   {
-    "name": "작은 등대지기",
+    "name": "Project Planet",
+    "team": "Rookies(동의대학교)",
     "division": "student",
-    "description": "외딴 섬 등대 운영 이야기"
+    "image": "images/stud-02.jpg"
   },
   {
-    "name": "꿈의 미로",
+    "name": "Torizon Telecom",
+    "team": "SkagoGames",
     "division": "student",
-    "description": "초현실 분위기 미로 탐험"
+    "image": "images/stud-03.jpg"
   },
   {
-    "name": "리버스 그래비티",
+    "name": "Net Diver",
+    "team": "Net Diver / 청강산업문화대학교",
     "division": "student",
-    "description": "중력 반전 플랫포머"
+    "image": "images/stud-04.jpg"
   },
   {
-    "name": "소리로 보는 밤",
+    "name": "댄싱좀비",
+    "team": "Vaeirus / –",
     "division": "student",
-    "description": "소리 단서로 푸는 어둠 속 퍼즐"
+    "image": "images/stud-05.jpg"
   },
   {
-    "name": "이끼 정원",
+    "name": "Guildream",
+    "team": "Team DiKi",
     "division": "student",
-    "description": "느긋한 정원 가꾸기"
+    "image": "images/stud-06.jpg"
   },
   {
-    "name": "타임 루프 카페",
+    "name": "소망의 눈",
+    "team": "픽세라핌",
     "division": "student",
-    "description": "반복되는 하루의 미스터리"
+    "image": "images/stud-07.jpg"
   },
   {
-    "name": "별을 줍는 아이",
+    "name": "Codexia(코덱시아)",
+    "team": "WheelsonStudio / 동의대학교(팀원 모두)",
     "division": "student",
-    "description": "수집형 힐링 플랫포머"
+    "image": "images/stud-08.jpg"
   },
   {
-    "name": "그림자 놀이",
+    "name": "Soom",
+    "team": "SmallBoots/동서대학교",
     "division": "student",
-    "description": "빛과 그림자 퍼즐"
+    "image": "images/stud-09.jpg"
   },
   {
-    "name": "마지막 우산",
+    "name": "PLOOPY",
+    "team": "동서대학교 – PLOOPY",
     "division": "student",
-    "description": "비 오는 도시 감성 게임"
+    "image": "images/stud-10.jpg"
   },
   {
-    "name": "픽셀 정원사",
+    "name": "Nia.exe",
+    "team": "동서대학교 froggy wiggy 스튜디오",
     "division": "student",
-    "description": "도트 정원 시뮬레이션"
+    "image": "images/stud-11.jpg"
   },
   {
-    "name": "무중력 술래잡기",
+    "name": "The Last Cowboy 더 라스트 카우보이",
+    "team": "동서대학교 – 더라스트카우보이",
     "division": "student",
-    "description": "우주 멀티 캐주얼"
+    "image": "images/stud-12.jpg"
   },
   {
-    "name": "낡은 라디오",
+    "name": "Drive.exe",
+    "team": "EXCEL ,동서대 게임학과",
     "division": "student",
-    "description": "사운드 기반 스토리 게임"
+    "image": "images/stud-13.jpg"
   },
   {
-    "name": "종이 인형극",
+    "name": "좀비 파괴자",
+    "team": "StrayDucks (인디 게임 팀)",
     "division": "student",
-    "description": "종이 연극 연출 게임"
+    "image": "images/stud-14.jpg"
   },
   {
-    "name": "미생물 월드",
+    "name": "전선(The-Conduit)",
+    "team": "전선/동서대학교",
     "division": "student",
-    "description": "세포 성장 시뮬레이션"
+    "image": "images/stud-15.jpg"
   },
   {
-    "name": "달팽이 우편",
+    "name": "ALCOHOL FREE",
+    "team": "앵두마을-동명대학교",
     "division": "student",
-    "description": "느린 배달 퍼즐"
+    "image": "images/stud-16.jpg"
   },
   {
-    "name": "실험실 탈출",
+    "name": "All-InEscape",
+    "team": "터틀 스튜디오/동의대학교",
     "division": "student",
-    "description": "방탈출 퍼즐"
+    "image": "images/stud-17.jpg"
   },
   {
-    "name": "고래의 노래",
+    "name": "라멘트",
+    "team": "라멘트(동서대학교 게임학과)",
     "division": "student",
-    "description": "심해 분위기 탐험"
+    "image": "images/stud-18.jpg"
   },
   {
-    "name": "색연필 모험",
+    "name": "Outcast",
+    "team": "동서대학교 Outcast",
     "division": "student",
-    "description": "손그림풍 어드벤처"
+    "image": "images/stud-19.jpg"
   },
   {
-    "name": "작은 마녀의 빗자루",
+    "name": "앨리스_언더그라운드",
+    "team": "앨리스(동서대학교)",
     "division": "student",
-    "description": "빗자루 비행 캐주얼"
-  },
-  {
-    "name": "도서관의 밤",
-    "division": "student",
-    "description": "책 속으로 들어가는 퍼즐"
-  },
-  {
-    "name": "로봇 청소부 R",
-    "division": "student",
-    "description": "청소 자동화 퍼즐"
-  },
-  {
-    "name": "씨앗과 바람",
-    "division": "student",
-    "description": "자연 성장 샌드박스"
+    "image": "images/stud-20.jpg"
   }
 ]

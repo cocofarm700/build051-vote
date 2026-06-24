@@ -89,6 +89,14 @@ function createCard(game) {
   name.textContent = game.name;
   card.appendChild(name);
 
+  // 팀명 — 값이 있을 때만 생성
+  if (game.team && game.team.trim() !== "") {
+    const team = document.createElement("p");
+    team.className = "game-team";
+    team.textContent = game.team;
+    card.appendChild(team);
+  }
+
   if (game.description && game.description.trim() !== "") {
     const desc = document.createElement("p");
     desc.className = "game-desc";
